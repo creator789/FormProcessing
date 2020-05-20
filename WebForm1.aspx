@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head runat="server">
 		<title>Buy Your Way to a Better Education!</title>
-		<link href="css/buyagrade.css" type="text/css" rel="stylesheet" />
+		<link href="buyagrade.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
